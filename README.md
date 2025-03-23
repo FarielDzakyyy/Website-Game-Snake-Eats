@@ -1,2 +1,2 @@
 # Website-Game-Snake-Eats
-Repository project website snake eats
+Repository project website game snake eats
